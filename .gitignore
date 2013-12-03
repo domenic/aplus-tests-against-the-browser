@@ -1,3 +1,5 @@
 /node_modules/
 /npm-debug.log
 lib/testFiles.js
+!/node_modules/mocha/mocha.js
+!/node_modules/mocha/mocha.css
